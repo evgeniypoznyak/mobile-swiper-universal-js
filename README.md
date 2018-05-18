@@ -9,3 +9,7 @@ To test it:
 1. Go to your browser console.
 2. Switch to mobile view.
 3. Swipe it :)
+
+
+# Code:
+https://github.com/evgeniypoznyak/mobile-swiper-universal-js/blob/master/swiper.js
