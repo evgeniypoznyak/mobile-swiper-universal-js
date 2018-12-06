@@ -2,7 +2,7 @@
 This was made a year ago, swiper should swipe image by finger drag. No jQuery required.
 
 # DEMO: 
-https://jsfiddle.net/evgeniy_p/ff8vndro/5/
+https://jsfiddle.net/ff8vndro/11/
 
 # NOTE: 
 To test it:
